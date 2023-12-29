@@ -77,6 +77,7 @@ class RequestAnnotations(foo.Operator):
                 anno_key,
                 label_schema=label_schema,
                 backend=backend,
+                upload_media=False,
                 **kwargs,
             )
 
