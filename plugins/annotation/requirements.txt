@@ -1,1 +1,3 @@
-labelbox==3.58.1
+# Requirements don't get installed here
+# See https://github.com/SafelyYou-Inc/fiftyone-plugins for general installation practices
+# https://github.com/SafelyYou-Inc/fiftyone-teams-docker/blob/main/docker/fiftyone-app/Dockerfile specifically.
