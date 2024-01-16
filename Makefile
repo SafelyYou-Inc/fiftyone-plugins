@@ -1,3 +1,5 @@
+SHELL := /bin/bash
+
 target:
 	mkdir -p target
 
