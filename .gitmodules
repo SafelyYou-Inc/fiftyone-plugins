@@ -1,0 +1,3 @@
+[submodule "plugins/fiftyone_labelbox"]
+	path = plugins/fiftyone_labelbox
+	url = https://github.com/SafelyYou-Inc/fiftyone_labelbox.git
